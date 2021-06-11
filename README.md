@@ -1,4 +1,4 @@
-Programming Assignments in Undergraduate Course "Database Systems" at Department of Informatics & Telecommunications - NKUA 
+Programming Assignments in Undergraduate Course "Database Systems"-Fall Semester 2019 at Department of Informatics & Telecommunications - NKUA 
 
 A low level example of a hash-based primary index. Developed in C, this project provides a static hashtable infrastructure,
 implemented on disc block-level (using university provided libraries) which can be used to create a disc embedded index for fixed entry size databases.
